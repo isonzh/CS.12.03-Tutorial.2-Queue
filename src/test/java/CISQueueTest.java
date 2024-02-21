@@ -45,7 +45,7 @@ class CISQueueTest<T> {
         assertEquals("80 -> null", queue.toString());
         queue.dequeue();
         assertEquals(0, queue.size());
-        assertEquals("null", queue.toString());
+        assertEquals(" -> null", queue.toString());
 
     }
 
