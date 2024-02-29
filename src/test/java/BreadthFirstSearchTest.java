@@ -68,5 +68,14 @@ class BreadthFirstSearchTest {
         }
 
     }
+        @Test
+        void queue(){
+            queue q =new queue();
+            q.enqueue(5);
+            q.enqueue(3);
+            q.array();
+        }
+
+
 
 }

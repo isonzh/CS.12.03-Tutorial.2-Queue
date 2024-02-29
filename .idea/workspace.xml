@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f52fb33e-fad4-4a22-bda0-84e5e3557c08" name="Changes" comment="First commit.">
+    <list default="true" id="f52fb33e-fad4-4a22-bda0-84e5e3557c08" name="Changes" comment="COMPLETED">
+      <change afterPath="$PROJECT_DIR$/src/main/java/QueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/queue.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BreadthFirstSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BreadthFirstSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CISLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CISLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/CISQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CISQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/BreadthFirstSearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/BreadthFirstSearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -52,7 +52,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BreadthFirstSearchTest">
+  <component name="RunManager" selected="JUnit.BreadthFirstSearchTest.queue">
     <configuration name="BreadthFirstSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BreadthFirstSearch" />
       <module name="CS.12.03-Tutorial.2-Queues" />
@@ -79,11 +79,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CISQueueLinkedListTest.dequeue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BreadthFirstSearchTest.queue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="CS.12.03-Tutorial.2-Queues" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CISQueueLinkedListTest" />
-      <option name="METHOD_NAME" value="dequeue" />
+      <option name="MAIN_CLASS_NAME" value="BreadthFirstSearchTest" />
+      <option name="METHOD_NAME" value="queue" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -100,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BreadthFirstSearchTest.queue" />
         <item itemvalue="JUnit.BreadthFirstSearchTest" />
         <item itemvalue="JUnit.CISQueueTest" />
         <item itemvalue="JUnit.BreadthFirstSearchTest.bfs" />
         <item itemvalue="Application.BreadthFirstSearch" />
-        <item itemvalue="JUnit.CISQueueLinkedListTest.dequeue" />
       </list>
     </recent_temporary>
   </component>
@@ -124,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706664595410</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="COMPLETED">
+      <created>1708481220187</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708481220187</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -140,6 +147,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit." />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit." />
+    <MESSAGE value="COMPLETED" />
+    <option name="LAST_COMMIT_MESSAGE" value="COMPLETED" />
   </component>
 </project>
